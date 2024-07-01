@@ -1,0 +1,11 @@
+-b1: git status
+Kiểm tra xem trong repo có gì mới không
+
+-b2: git add <Tên file> || git add .
+Add file
+
+-b3:git commit -m"message"
+Thực hiện commit
+
+-b4: git push || git push origin main
+push code lên github
